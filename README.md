@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="960" height="540" alt="context_engine" src="https://github.com/user-attachments/assets/8f0a7294-77f3-42b9-8ddf-fb5e41152494" />
+</div>
+
 # Temenos
 
 A TypeScript framework for building multi-agent AI systems over any retrievable context: documents, market data, images, APIs, logs.
